@@ -4,7 +4,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 게임 제목 | **미정** |
+| 게임 제목 | **Vital Point** |
 | 장르 | VR / Action / Hunting |
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
